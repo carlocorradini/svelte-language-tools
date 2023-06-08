@@ -1,0 +1,17 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.requireConfig": true,
+    "prettier.ignorePath": "${workspaceFolder}/launcher/.prettierignore",
+    "prettier.configPath": "${workspaceFolder}/launcher/.prettierrc",
+    "prettier.prettierPath":"${workspaceFolder}/node_modules/prettier",
+    "rust-analyzer.check.command": "clippy",
+    "rust-analyzer.check.extraArgs": ["--", "--warn", "clippy::pedantic"],
+    "svelte.enable-ts-plugin": true,
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+    },
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    }
+}

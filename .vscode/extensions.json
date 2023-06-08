@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "csstools.postcss",
+        "EditorConfig.EditorConfig",
+        "Gruntfuggly.todo-tree",
+        "rust-lang.rust-analyzer",
+        "serayuzgur.crates",
+        "svelte.svelte-vscode",
+        "tamasfe.even-better-toml",
+        "tauri-apps.tauri-vscode",
+        "usernamehw.errorlens",
+        "vadimcn.vscode-lldb"
+    ]
+}
